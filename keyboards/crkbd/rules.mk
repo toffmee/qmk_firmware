@@ -1,2 +1,4 @@
 DEFAULT_FOLDER = crkbd/rev1
 CONVERT_TO=promicro_rp2040
+SERIAL_DRIVER = vendor
+SPLIT_KEYBOARD = yes
